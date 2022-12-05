@@ -1,0 +1,77 @@
+#contener {
+    background-color: solid black;
+    border-style: solid;
+    border-color:black;
+    height: 100%;
+    width: 100%;
+    background-image: url("txz.png");
+    float: left;
+            
+    
+}
+#text2 { text-align: left;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 50px;
+    border-width: 10px;
+    float: left;
+    width: 20%;
+    position:absolute;
+    bottom:350px;
+
+}
+#text3 {
+    text-align: right;
+    color: whitesmoke;
+    margin-top: 10px;
+    font-size: 50px;
+    float:right;
+    width: 20%;
+    bottom:350px;
+
+
+}
+
+#kontener {
+    opacity:0.5;
+    background-image: url("jedzenie.jpg");
+    background-color: #cccccc;
+    margin:auto;
+    border-style: solid;
+    border-color:black;
+    border-width: 5px;
+    height: 900px;
+    width: 50%;
+    
+}
+
+#text {
+    text-align: center;
+    color: olive;
+    padding: 10px;
+    font-size: 50px;
+    border-style: solid;
+    border-color:black;
+    border-width: 5px;
+    border-left: 0px;
+    border-right: 0px;
+    
+
+}
+h1 {
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    margin-top: 30px;
+    width: 40%;
+}
+#imie {
+    text-align: left;
+    color: black;
+    padding: 10px;
+    font-size: 50px;
+    margin-top: 230px;
+    float: left;
+    width: 20%;
+    font-size:25px;
+}
